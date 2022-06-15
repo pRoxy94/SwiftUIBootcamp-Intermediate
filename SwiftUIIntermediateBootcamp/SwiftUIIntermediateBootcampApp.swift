@@ -11,7 +11,9 @@ import SwiftUI
 struct SwiftUIIntermediateBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//		  DragGestureBootcamp()
+		  LocalNotificationBootcamp()
         }
     }
 }
