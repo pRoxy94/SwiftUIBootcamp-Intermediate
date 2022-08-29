@@ -13,7 +13,8 @@ struct SwiftUIIntermediateBootcampApp: App {
         WindowGroup {
 //            ContentView()
 //		  DragGestureBootcamp()
-		  LocalNotificationBootcamp()
+//		  LocalNotificationBootcamp()
+            DownloadWithEscapingBootcamp()
         }
     }
 }
